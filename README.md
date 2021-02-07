@@ -2,6 +2,7 @@
 
 ## Demo
 Link for web application : https://looking-for-job-change.herokuapp.com/
+
 ![image](https://user-images.githubusercontent.com/70757239/107154254-ef422600-6997-11eb-9ecf-3ea2ada19de4.png)
 
 ![image](https://user-images.githubusercontent.com/70757239/107154389-b6ef1780-6998-11eb-89ab-3a8e33cc4084.png)
