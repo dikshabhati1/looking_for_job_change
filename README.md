@@ -2,7 +2,7 @@
 
 ## Demo
 Link for web application : https://looking-for-job-change.herokuapp.com/
-
+![image](https://user-images.githubusercontent.com/70757239/107154254-ef422600-6997-11eb-9ecf-3ea2ada19de4.png)
 
 ## Overview
 This is the flask app which predicts weather a person is looking for a new job or not
